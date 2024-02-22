@@ -1,1 +1,1 @@
-Hier können ausschließlich bugs und fehler reportet werden
+Hier können ausschließlich bugs und fehler reporten werden
